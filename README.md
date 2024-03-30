@@ -1,9 +1,10 @@
 # leaflet_challenge
 
-File path to code: 
-  Leaflet-Part-1 > static > js > logic.js
+File paths to code:
 
-  Leaflet-Part-1 > static > css > style.css
+Leaflet-Part-1 > static > js > logic.js
+
+Leaflet-Part-1 > static > css > style.css
 
 Screenshot of resulting index.html: 
 
